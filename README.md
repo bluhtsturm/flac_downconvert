@@ -45,7 +45,7 @@ Das Original wird also erst angefasst, wenn das Ergebnis vollständig verifizier
 Es gibt nichts zu installieren außer den beiden externen Werkzeugen. Das Skript ist eine einzelne Datei und braucht keine Python-Pakete.
 
 ```bash
-git clone https://github.com/<dein-name>/flac-downconvert.git
+git clone https://github.com/bluhtsturm/flac-downconvert.git
 cd flac-downconvert
 chmod +x flac_downconvert_de.py
 ```
@@ -178,7 +178,7 @@ In other words, the original is not touched until a fully verified result exists
 There is nothing to install beyond the two external tools. The script is a single file and needs no Python packages.
 
 ```bash
-git clone https://github.com/<your-name>/flac-downconvert.git
+git clone https://github.com/bluhtsturm/flac-downconvert.git
 cd flac-downconvert
 chmod +x flac_downconvert_en.py
 ```
